@@ -9,13 +9,13 @@
   },
   "text": {
     "more": "Andro Man network LINKED TRIAL",
-    "intro": "Andro Man network",
-    "title": "LINKED TRIALS"
+    "intro": "The links indicate the linkes witches",
+    "title": "Linked trials"
   },
   "legend": {
-    "edgeLabel": "Link",
-    "colorLabel": "Modularity class",
-    "nodeLabel": "People"
+    "edgeLabel": "",
+    "colorLabel": "",
+    "nodeLabel": ""
   },
   "features": {
     "search": true,
@@ -40,8 +40,8 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
+      "maxEdgeSize": 2,
+      "minEdgeSize": 2,
       "minNodeSize": 1,
       "maxNodeSize": 7
     },
